@@ -1,11 +1,11 @@
 <!-- README.md for beingrajdevyadav -->
 
 <h2 align="center">Hi 👋, I'm Rajdev Yadav</h2>
-
+---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&width=435&lines=Passionate+MERN+Developer;Building+modern+UIs+with+React+%2B;Always+learning+%7C+Always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&width=435&lines=Passionate+MERN+Developer;Building+modern+Webs+with+MERN+stack;Always+learning+%7C+Always+shipping" alt="Typing SVG" />
 </p>
-
+---
 ###  About Me
 -  I'm a passionate front-end developer and engineering student  
 -  I’m currently learning **MERN Stack**  
@@ -13,14 +13,8 @@
 ---
 
 ###  Tech Stack & Tools
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/> 
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
-<img width="60" height="60" src="https://img.icons8.com/ios-glyphs/60/github.png" alt="github"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://w7.pngwing.com/pngs/205/650/png-transparent-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs-software-development.png" alt="nodejs"/><img width="48" height="48" src="https://www.manektech.com/storage/developer/1646733543.webp" alt="expressjs"/> <img width="48" height="48" src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="60" height="60" src="https://img.icons8.com/ios-glyphs/60/github.png" alt="github"/>
 
 ---
 
