@@ -1,4 +1,10 @@
 <!-- README.md for beingrajdevyadav -->
+### 📈 GitHub Activity Graph
+
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=beingrajdevyadav&theme=react-dark)
+
+---
+
 
 <h2 align="center">Hi 👋, I'm Rajdev Yadav</h2>
 
@@ -10,28 +16,24 @@
 
 ---
 
-### 📈 GitHub Activity Graph
-
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=beingrajdevyadav&theme=react-dark)
-
----
-
-###  About Me
--  I'm a passionate mern stack developer and engineering student  
--  I’m currently learning **MERN Stack**  
--  I’m on a journey to become an **AI-powered Web App Developer** 
----
-
-
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beingrajdevyadav&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrajdevyadav&theme=github-dark" height="180" />
 </p>
 
 ---
+
+### 🏆 GitHub Contribution Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=beingrajdevyadav&theme=dark" />
+  </a>
+</p>
+
+---
+
 
 ###  Tech Stack & Tools
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
