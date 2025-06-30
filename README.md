@@ -10,6 +10,12 @@
 
 ---
 
+### 📈 GitHub Activity Graph
+
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=beingrajdevyadav&theme=react-dark)
+
+---
+
 ###  About Me
 -  I'm a passionate mern stack developer and engineering student  
 -  I’m currently learning **MERN Stack**  
