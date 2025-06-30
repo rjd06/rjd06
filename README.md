@@ -5,6 +5,8 @@
 
 ---
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beingrajdevyadav&theme=github_dark" width="100%" />
+
 
 <h2 align="center">Hi 👋, I'm Rajdev Yadav</h2>
 
@@ -19,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingrajdevyadav&show_icons=true&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beingrajdevyadav&show_icons=true&theme=github_dark" width="50%" />
 </p>
 
 ---
@@ -35,21 +37,19 @@
 ---
 
 
-###  Tech Stack & Tools
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="60" height="60" src="https://img.icons8.com/ios-glyphs/60/github.png" alt="github"/>
+ ### 📊 GitHub Overview
 
-<img width="300"  src="https://media.licdn.com/dms/image/v2/D4D12AQGp_UCp3W82YA/article-cover_image-shrink_720_1280/B4DZXxf.sMHsAI-/0/1743513448088?e=2147483647&v=beta&t=nsToxH_KNK36f6j_xfNqeqM67oQL05VmQHQKZT7ozwQ" alt="mern" />
+<div align="center">
 
----
 
-### 🧑‍💻 About Me
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=beingrajdevyadav&theme=github_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beingrajdevyadav&theme=github_dark&utcOffset=8" width="49%" />
 
-- 🧩 Constantly building real-world projects to grow my skills.
-- ⚙️ I enjoy working with clean UI, logical architecture, and scalable code.
-- 📚 Currently leveling up my skills in advanced ReactJS & backend integration.
+  <br/><br/>
+</div>
 
----
+--- 
+
 
 ### 📫 Reach Me
 
