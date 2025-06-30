@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingrajdevyadav&show_icons=true&theme=github_dark" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beingrajdevyadav&show_icons=true&theme=github_dark" width="50%" min-width="300px" />
 </p>
 
 ---
