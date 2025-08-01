@@ -1,4 +1,6 @@
 <!-- README.md for beingrajdevyadav -->
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Rajdev%20Yadav&fontSize=90)
+
 ### 📈 GitHub Activity Graph
 
 ![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=beingrajdevyadav&theme=react-dark)
@@ -8,7 +10,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beingrajdevyadav&theme=github_dark" width="100%" />
 
 
-<h2 align="center">Hi 👋, I'm Rajdev Yadav</h2>
+
 
 ---
 
