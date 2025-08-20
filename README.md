@@ -1,13 +1,13 @@
 <!-- README.md for beingrajdevyadav -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Rajdev%20Yadav&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=JavaScript%20Zone&fontSize=90)
 
 ### 📈 GitHub Activity Graph
 
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=beingrajdevyadav&theme=react-dark)
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=rjd06&theme=react-dark)
 
 ---
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beingrajdevyadav&theme=github_dark" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjd06&theme=github_dark" width="100%" />
 
 
 
@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingrajdevyadav&show_icons=true&theme=github_dark" height="220px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rjd06&show_icons=true&theme=github_dark" height="220px" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=beingrajdevyadav&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=rjd06&theme=dark" />
   </a>
 </p>
 
@@ -44,8 +44,8 @@
 <div align="center">
 
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=beingrajdevyadav&theme=github_dark" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beingrajdevyadav&theme=github_dark&utcOffset=8" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjd06&theme=github_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rjd06&theme=github_dark&utcOffset=8" width="49%" />
 
   <br/><br/>
 </div>
@@ -55,12 +55,10 @@
 
 ### 📫 Reach Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?logo=github&style=flat)](https://github.com/beingrajdevyadav)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat)](https://linkedin.com/in/rjd06)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajdevyadavofficial@gmail.com)
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=beingrajdevyadav&color=orange)
+![Visitor Count](https://komarev.com/ghpvc/?username=rjd06&color=orange)
 
 
