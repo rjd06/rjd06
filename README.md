@@ -10,10 +10,27 @@
 - 📊 Actively contributing on GitHub with 50+ repositories.  
 
 
-## 🔥 Highlights
-- 🟦 **JavaScript Zone** – My coding space dedicated to JavaScript learning and projects.  
-- 📂 **55+ repositories** covering experiments, projects, and learning resources.  
-- 🕒 Regular contributions with a consistent activity graph.  
+ ### 🌟 Quotes on Consistency
+
+> "Consistency is what transforms average into excellence."  
+
+> "Small consistent steps lead to big results."  
+
+> "Success doesn’t come from what you do occasionally, it comes from what you do consistently."  
+
+> "Discipline is the bridge between goals and accomplishments, and consistency is the road."  
+
+> "Dreams don’t work unless you do — consistently."  
+
+> "Consistency is the key that unlocks progress."  
+
+> "It’s not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins  
+
+> "Motivation gets you started, consistency keeps you going."  
+
+> "Consistency compounds — little by little, day by day."  
+
+> "If you are persistent, you will get it. If you are consistent, you will keep it."  
 
 
 ### 📫 Reach Me
@@ -70,27 +87,7 @@
 
 
 
-# 🌟 Quotes on Consistency
 
-> "Consistency is what transforms average into excellence."  
-
-> "Small consistent steps lead to big results."  
-
-> "Success doesn’t come from what you do occasionally, it comes from what you do consistently."  
-
-> "Discipline is the bridge between goals and accomplishments, and consistency is the road."  
-
-> "Dreams don’t work unless you do — consistently."  
-
-> "Consistency is the key that unlocks progress."  
-
-> "It’s not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins  
-
-> "Motivation gets you started, consistency keeps you going."  
-
-> "Consistency compounds — little by little, day by day."  
-
-> "If you are persistent, you will get it. If you are consistent, you will keep it."  
 
 
 
