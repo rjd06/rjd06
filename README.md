@@ -1,5 +1,22 @@
 <!-- README.md for beingrajdevyadav -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=JavaScript%20Zone&fontSize=90)
+# 👋 Hi, I'm Rajdev Yadav (rjd06)
+
+> *"I just want to know a little about a lot."*
+
+
+## 🚀 About Me
+- 💻 Passionate about **JavaScript** and web development.  
+- 🌱 Constantly exploring new technologies and building side projects.  
+- 📊 Actively contributing on GitHub with 50+ repositories.  
+
+
+## 🔥 Highlights
+- 🟦 **JavaScript Zone** – My coding space dedicated to JavaScript learning and projects.  
+- 📂 **55+ repositories** covering experiments, projects, and learning resources.  
+- 🕒 Regular contributions with a consistent activity graph.  
+
+
+
 
 ### 📈 GitHub Activity Graph
 
