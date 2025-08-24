@@ -1,5 +1,5 @@
 <!-- README.md for beingrajdevyadav -->
-# 👋 Hi, I'm Rajdev Yadav 
+## 👋 Hi, I'm Rajdev Yadav 
 
 > *"I just want to know a little about a lot."*
 
@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 💻 Passionate about **JavaScript** and web development.  
 - 🌱 Constantly exploring new technologies and building side projects.  
-- 📊 Actively contributing on GitHub with 50+ repositories.  
+- 📊 Actively contributing on GitHub with 45+ repositories.  
 
 
  ### 🌟 Quotes on Consistency
