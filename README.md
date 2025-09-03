@@ -5,13 +5,15 @@
 
 
 
-The illiterate of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn and relearn.
+### Exploring MERN Stack
+- ReactJs
+- NodeJs
+- MongoDB
+- ExpressJs
+- Socket.io
+- So on...
 
-So, just follow these 3Fs : 
-- Focus 🎯
-- Fire 💀
-- Finish 👽
-
+Let's connect and collaborate.
 Thanks for visiting my profile. 💖
 
 
